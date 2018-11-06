@@ -48,7 +48,7 @@ If a channel that you feel should exist doesn't exist, go ahead and create it. K
 
 ### Do exercise caution when creating private channels
 
-Private channels can only be converted to a public channel by an administrator. So try to avoid creating them unless you really need to have a small private group. One such legitimate use case is `admin-chat` where the administrators discuss issues relating to the management of the Slack community.
+Private channels cannot later be converted to a public channel. So try to avoid creating them unless you really need to have a small private group. One such legitimate use case is `admin-chat` where the administrators discuss issues relating to the management of the Slack community.
 
 ### Don't use this Slack for your company's business
 
@@ -64,7 +64,7 @@ Let's imagine that you posted a message to `#ocapi` a couple days ago and you're
 
 ![Slack expanded link example](assets/slack-expanded-link.png)
 
-Slack will helpfully create an excerpt to your original message for folks to see when you share a link to it.
+Slack will helpfully display an excerpt of your original message for folks to see when you share a link to it.
 
 ### Don't create duplicate accounts
 
