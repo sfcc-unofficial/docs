@@ -58,6 +58,10 @@ If your workplace doesn't use Slack and you want to use it anyway, don't use thi
 
 Supporting others in the community is a volunteer position. As such, you as a member should have no expectation that others will be as attentive as your coworkers or friends. `@channel` and `@here` force notifications to all members of a channel and/or all online members in a channel. They can become rather noisy to the hundreds of members in channels. Therefore, out of respect for the other members, please remember to avoid using those keywords in your messages.
 
+### Don't post content that may be vulgar, offensive, or illegal
+
+As a professional environment, it is not appropriate to share offensive or vulgar content within our Slack community. Additionally, do not share any information that may be illegal in nature. Please consider the global nature of the community when determining the legality of content.
+
 ### Don't duplicate content
 
 Let's imagine that you posted a message to `#ocapi` a couple days ago and you're not getting any responses. Your first instinct may be to re-post that same message to `#general` so that it will get more attention. Please don't do that. You can easily copy a link to the message within `#ocapi` and ask in `#general` for someone to look at it in the original channel instead. For example:
