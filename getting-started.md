@@ -54,9 +54,9 @@ Private channels cannot later be converted to a public channel. So try to avoid 
 
 If your workplace doesn't use Slack and you want to use it anyway, don't use this slack for that purpose. Slacks are free to start, go ahead and [create your own](https://slack.com/get-started#create).
 
-### Don't use `@channel` & `@here`
+### Don't use `@everyone` & `@channel`
 
-Supporting others in the community is a volunteer position. As such, you as a member should have no expectation that others will be as attentive as your coworkers or friends. `@channel` and `@here` force notifications to all members of a channel and/or all online members in a channel. They can become rather noisy to the hundreds of members in channels. Therefore, out of respect for the other members, please remember to avoid using those keywords in your messages.
+Supporting others in the community is a volunteer position. As such, you as a member should have no expectation that others will be as attentive as your coworkers or friends. `@everyone` and `@channel` force notifications to all members of a channel regardless of they are active (being online and having Slack open) or not at that moment. They can become rather noisy to the hundreds of members in channels. Therefore, out of respect for the other members, please remember to avoid using those keywords in your messages. `@here` on the other hand, only notifies the **active** members and might be handy in some situations. Please do not overuse these keywords.
 
 ### Don't post content that may be vulgar, offensive, or illegal
 
