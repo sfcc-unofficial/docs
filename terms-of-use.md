@@ -12,7 +12,7 @@ You agree that you understand that any information or opinions shared within the
 
 ## Recruiting and Job Opportunities
 
-You agree that no professional recruiting shall be performed within the community. Professional recruiting shall be considered as behaviors typically performed by a recruitng profession including, but not limited to:
+You agree that no professional recruiting shall be performed within the community. Professional recruiting shall be considered as behaviors typically performed by a recruiting profession including, but not limited to:
 
 * Soliciting applicants for a job that you have been professionally engaged to locate applicants
 * Soliciting applicants directly via Direct Messaging
