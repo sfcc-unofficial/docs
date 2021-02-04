@@ -73,3 +73,7 @@ Slack will helpfully display an excerpt of your original message for folks to se
 ### Don't create duplicate accounts
 
 This Slack community doesn't restrict your ability to change your email address. Don't worry if you registered with an old employer's email account. You can just change the email address associated with it to your new employer. Simply go to [Account Settings](https://sfcc-unofficial.slack.com/account/settings) and change your email address.
+
+#### Recovering Accounts
+
+If you no longer have access to your Slack account, you can ask for an admin to change your account's email address. Try to get in touch by whatever means necessary. We've received requests by way of a friend or colleague who still has access to Slack.
