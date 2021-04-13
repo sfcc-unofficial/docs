@@ -1,6 +1,6 @@
 # Joining
 
-You can [join the community](https://sfcc-unofficial.slack.com/) instantly if your company's domain is already white-listed. The list of domains that are white-listed will be kept private. However, if you work for a large retailer or Salesforce partner organization, chances are your domain is white-listed. Try registering and if you can't register, fill out the link for invitations below.
+You can [join the community](https://sfcc-unofficial.slack.com/) instantly if your company's domain is already white-listed. If you work for a large retailer or Salesforce partner organization, chances are your domain is white-listed. Try registering and if you can't register, fill out the link for invitations below.
 
 ## Invitations
 
