@@ -1,10 +1,10 @@
 # Joining
 
-You can [join the community](https://sfcc-unofficial.slack.com/) instantly if your company's domain is already white-listed. If you work for a large retailer or Salesforce partner organization, chances are your domain is white-listed. Try registering and if you can't register, fill out the link for invitations below.
+You can [access the community](https://sfcc-unofficial.slack.com/) here. If you haven't already been invited, then please request an invitation from someone who you know is already in the community, or from the form listed below.
 
 ## Invitations
 
-If your domain isn't on the list of white-listed domains for the community, please [request an invitation](https://docs.google.com/forms/d/e/1FAIpQLSdy875PlJuib35naCkr3-Frn2qtaSuuRgYezRSb2uBYkhXt7g/viewform). (Your email address will only be used for the sole purpose of inviting you to the community.)
+If you don't know anyone in the community, please [request an invitation](https://docs.google.com/forms/d/e/1FAIpQLSdy875PlJuib35naCkr3-Frn2qtaSuuRgYezRSb2uBYkhXt7g/viewform). (Your email address will only be used for the sole purpose of inviting you to the community.)
 
 ## Community Documentation
 
