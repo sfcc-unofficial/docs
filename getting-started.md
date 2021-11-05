@@ -77,3 +77,9 @@ This Slack community doesn't restrict your ability to change your email address.
 #### Recovering Accounts
 
 If you no longer have access to your Slack account, you can ask for an [admin](./admins.md) to change your account's email address. Try to get in touch by whatever means necessary. We've received requests by way of a friend or colleague who still has access to Slack.
+
+Please note that in some cases, we might not be able to do this, if we are not able to prove your identity or get from you enough details to confirm the old account was really yours. Trust is the value we care about a lot, like official Salesforce.
+
+#### Example
+
+![change_email_example](https://user-images.githubusercontent.com/3693219/140220090-6a271be0-6f3f-4201-80b9-efa1cc2d3baf.png)
