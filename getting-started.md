@@ -70,6 +70,12 @@ Let's imagine that you posted a message to `#ocapi` a couple days ago and you're
 
 Slack will helpfully display an excerpt of your original message for folks to see when you share a link to it.
 
+### Don't spam channels
+
+While the preferred method to ask your question again is to share a link, don't do so in a single channel as an attempt to bury or de-prioritize other messages that came after yours. A general rule of thumb is to not repost your message until at least 4-5 messages have come after it **and** at least 48 hrs of time has elapsed. This is to give our community the chance to respond across all timezones and schedules.
+
+Please remember that many of our members volunteer thier time to answer questions and it can only happen when they are not focused on other obligations.
+
 ### Don't create duplicate accounts
 
 This Slack community doesn't restrict your ability to change your email address. Don't worry if you registered with an old employer's email account. You can just change the email address associated with it to your new employer. Simply go to [Account Settings](https://sfcc-unofficial.slack.com/account/settings) and change your email address.
