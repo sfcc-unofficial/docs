@@ -74,7 +74,7 @@ Slack will helpfully display an excerpt of your original message for folks to se
 
 While the preferred method to ask your question again is to share a link, don't do so in a single channel as an attempt to bury or de-prioritize other messages that came after yours. A general rule of thumb is to not repost your message until at least 4-5 messages have come after it **and** at least 48 hrs of time has elapsed. This is to give our community the chance to respond across all timezones and schedules.
 
-Please remember that many of our members volunteer thier time to answer questions and it can only happen when they are not focused on other obligations.
+Please remember that many of our members volunteer their time to answer questions and it can only happen when they are not focused on other obligations.
 
 ### Don't create duplicate accounts
 
