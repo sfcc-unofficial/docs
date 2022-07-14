@@ -26,9 +26,9 @@ You agree that you may:
 
 You agree to use the community only for: sharing information, asking and answering questions, and other discussion with members of the community. You agree that you will not use the community for any business operations or business communications for yourself or your employer.
 
-Using the slack community to communicate with your clients or prospective clients about a project or pitch is forbidden. Please start your own company or project-specific slack community and manage that yourself.
+Using the Slack community to communicate with your clients or prospective clients about a project or pitch is forbidden. Please start your own company or project-specific Slack community and manage that yourself.
 
-Posting ads about you or your company's products or services is discouraged unless it directly relates to a question being asked. For example, if someone wants a tool for managing product images and your company makes one. You're welcome to briefly mention the existance of your company's product as a solution. For example:
+Posting any message that can be interepreted as an ad about you or your company's products or services is prohibited unless it directly relates to a question being asked. For example: if someone wants a tool for managing product images, and your company makes one, you're welcome to briefly mention the existence of your company's product as a solution, as shown below.
 
 > **Jane Slack User**: Does anyone have any recommendations for a good image or asset management solution?
 > 
