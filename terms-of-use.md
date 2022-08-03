@@ -24,7 +24,15 @@ You agree that you may:
 
 ## Non-Commercial Use
 
-You agree to use the community only for: sharing information, asking and answering questions, and other discussion with members of the community. You agree that you will not use the community for your any business operations or communications for yourself or your employer.
+You agree to use the community only for: sharing information, asking and answering questions, and other discussion with members of the community. You agree that you will not use the community for any business operations or business communications for yourself or your employer.
+
+Using the Slack community to communicate with your clients or prospective clients about a project or pitch is forbidden. Please start your own company or project-specific Slack community and manage that yourself.
+
+Posting any message that can be interepreted as an ad about you or your company's products or services is prohibited unless it directly relates to a question being asked. For example: if someone wants a tool for managing product images, and your company makes one, you're welcome to briefly mention the existence of your company's product as a solution, as shown below.
+
+> **Jane Slack User**: Does anyone have any recommendations for a good image or asset management solution?
+> 
+> **Joe Employee**: My employer, Example Technologies, makes a product called "Asset Management Deluxe" that may be a good option for you.
 
 ## Privacy
 
