@@ -89,3 +89,9 @@ Please note that in some cases, we might not be able to do this, if we are not a
 #### Example
 
 ![change_email_example](https://user-images.githubusercontent.com/3693219/140220090-6a271be0-6f3f-4201-80b9-efa1cc2d3baf.png)
+
+### Do use snippets when pasting large amounts of code
+
+Pasted code can easily fill the entire chat window and be difficult to read. For this reason it is highly preferred that our users to take advantage of Slacks's [snippets](https://slack.com/help/articles/204145658-Create-or-paste-code-snippets-in-Slack) feature when sharing code.
+
+Not only does this feature make the code easier to read via language-specific syntax highlight, it becomes collapsible and easier to copy and paste for others who may want to test your code locally.
