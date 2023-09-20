@@ -42,13 +42,13 @@ As a community based around a professional topic and setting, respect is a criti
 
 Many channels exist within the community. Some have specific topics such as `#ocapi`, `#einstein`, and `#sfcc-certification`. Others, such as `#general` and `#random` don't have a specific topic. Please try to locate the right place to post your message.
 
-### Do create public channels
+### Do ask for new public channel creation on [#admin-requests](https://sfcc-unofficial.slack.com/archives/C011P1G8R7W)
 
-If a channel that you feel should exist doesn't exist, go ahead and create it. Keep in mind that there may not be a significant number of community members that may be interested in that topic. "If you build it, they will come" doesn't always apply here. So think about the amount of people who would be interested in that topic before creating a channel dedicated to it.
+If a channel that you feel should exist doesn't exist, make a request [#admin-requests](https://sfcc-unofficial.slack.com/archives/C011P1G8R7W). Additional channels should only be created when there's a robust need that doesn't fit into any of our current channels. Unnecessary multiplication of channels can lead to confusion and important messages may get missed.
 
-### Do exercise caution when creating private channels
+### Do not ask for private channel creation
 
-Private channels cannot later be converted to a public channel. So try to avoid creating them unless you really need to have a small private group. One such legitimate use case is `admin-chat` where the administrators discuss issues relating to the management of the Slack community.
+We do not support the creation of private channels as we believe that knowledge and information should be open and accessible to those who seek it. We reserve the right to have few private channels that are used by the admins to discuss matters related to the running and management of the Slack workspace.
 
 ### Don't use this Slack for your company's business
 
