@@ -9,6 +9,4 @@ There are three main ways to get sandboxes for Salesforce B2C Commerce:
 
 ### For Other Uses
 
-For open source projects, reach out to [@Peter Schmalfeldt](https://sfcc-unofficial.slack.com/team/UFNCER2AK) in the SFCC Unofficial Slack.
-
 For any other reason for a sandbox, reach out to [@Andrew Lawrence](https://sfcc-unofficial.slack.com/team/UMN1ZJME3) in the SFCC Unofficial Slack. There are no promises for other use cases -- it will depend on what you are looking to use it for, who you are working for, length of time you need it, etc. 
