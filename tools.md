@@ -4,6 +4,11 @@ If you have any question, suggestion or just want to chat about any of these too
 
 ## Table of Contents
 - [CI](#ci)
+- [Productivity](#productivity)
+
+## Productivity
+**[`^        back to top        ^`](#community-tools)**
+- [DWWithEase Chrome Plugin](https://dwithease.com) - Helpful plugin to ease user interactions in the Salesforce Commerce Cloud B2C Business Manager application. ([#dwwithease channel](https://sfcc-unofficial.slack.com/archives/CJK7QH8NR))
 
 ## CI
 **[`^        back to top        ^`](#community-tools)**
