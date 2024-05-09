@@ -27,7 +27,7 @@ Admin will be considered both based on merit and need, referencing the guiding p
 3. Participate in admin requests, discussions, and decisions
 4. Contribute to our guidelines
 5. Vote on new admin nominees
-6. Represent the Uofficial SFCC brand in a positive way across the ecosystem
+6. Represent the Unofficial SFCC brand in a positive way across the ecosystem
 7. Give lots of 🌮s
 
 ## Admins Roster
