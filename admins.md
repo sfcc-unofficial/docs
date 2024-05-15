@@ -2,6 +2,16 @@
 
 All admins of this community are fulfilling that duty in a volunteer capacity. Please keep that in mind when they reach out to you or you reach out to them.
 
+## Admin Duties
+
+1. Moderate the Slack workspace, making sure members adhere to our guidelines
+2. Process new user sign-ups regularly
+3. Participate in admin requests, discussions, decisions, and our partnership with Salesforce
+4. Contribute to our guidelines
+5. Vote on new admin nominees
+6. Represent the Unofficial SFCC brand in a positive way across the ecosystem
+7. Give lots of 🌮s
+
 ## Admins Guiding Principles
 
 We aim for an approximate ratio of 1 admin : 100 members.
@@ -20,16 +30,6 @@ Admin will be considered both based on merit and need, referencing the guiding p
 * Members may also be considered from internal nomination within the curent admins group
 * Approval takes place among admins via a closed vote. A nominee needs at least 50% "Yes" votes among current admins to be added with 0 "No" votes. (A "No" vote does not automatically reject the candidate but merits further discussion on a case-by-case basis).
 
-## Admin Duties
-
-1. Moderate the Slack workspace, making sure members adhere to our guidelines
-2. Process new user sign-ups regularly
-3. Participate in admin requests, discussions, and decisions
-4. Contribute to our guidelines
-5. Vote on new admin nominees
-6. Represent the Unofficial SFCC brand in a positive way across the ecosystem
-7. Give lots of 🌮s
-
 ## Admins Roster
 
 | :camera: Photo| :label: Name | :book: Description | :id: Trailblazer ID | :octocat: GH ID |
@@ -42,6 +42,6 @@ Admin will be considered both based on merit and need, referencing the guiding p
 |![Photo of Gökay Gürcan](https://ca.slack-edge.com/TAU70QQBY-UAYMETYLX-b784d49304f1-72)|[Gökay Gürcan](https://sfcc-unofficial.slack.com/team/UAYMETYLX)|Late addition to the admins group after lurking around for a few years and trying to make a meaningful contribution to the community. Has about almost a decade of SFCC B2C Commerce Cloud/Demandware experience and many projects under his belt. Currently working as Development Manager of multiple software development teams. Goes with he/him pronouns.| [gokaygurcan](https://trailblazer.me/id/gokaygurcan) | [gokaygurcan](https://github.com/gokaygurcan)|
 |![Photo of Thomas Theunen](https://ca.slack-edge.com/TAU70QQBY-UFR4SL94H-78b02c36955b-512)|[Thomas Theunen](https://sfcc-unofficial.slack.com/team/UFR4SL94H)|He joined the admin group in 2022 after being in the community for a few years. He has more than a decade of experience in Commerce and is mainly focussing on Customer 360 for the past few years. Goes with he/him pronouns. | [thomas-theunen](https://trailblazer.me/id/thomas-theunen) |[taurgis](https://github.com/taurgis)|
 ||Shane Smyth|
-|![Photo of Peter Schmalfeldt](https://ca.slack-edge.com/TAU70QQBY-UFNCER2AK-17db44e2bfb0-512)|Peter Schmalfeldt|Peter has over 20 years of experience building websites to design, develop & deploy eCommerce applications for Web, Mobile & Desktop platforms. Withing the Unofficial SFCC team, Peter works as a Developer Advocate for Open Source Salesforce Commerce Cloud Projects.|[peter-schmalfeldt](https://trailblazer.me/id/peter-schmalfeldt)|[manifestinteractive](https://github.com/manifestinteractive)|
-||Amalia Murray|
+|![Photo of Peter Schmalfeldt](https://ca.slack-edge.com/TAU70QQBY-UFNCER2AK-17db44e2bfb0-72)|Peter Schmalfeldt|Peter has over 20 years of experience building websites to design, develop & deploy eCommerce applications for Web, Mobile & Desktop platforms. Withing the Unofficial SFCC team, Peter works as a Developer Advocate for Open Source Salesforce Commerce Cloud Projects.|[peter-schmalfeldt](https://trailblazer.me/id/peter-schmalfeldt)|[manifestinteractive](https://github.com/manifestinteractive)|
+|![Photo of Amalia Murray](https://ca.slack-edge.com/TAU70QQBY-U0399RBSDKP-94adddd3d97e-72)|[Amalia Murray](https://sfcc-unofficial.slack.com/team/U0399RBSDKP)|Amalia is Director of Trailblazer Marketing at Salesforce and has been a wonderful advocate for the Unofficial SFCC Community. She supports Commerce Trailblazers, Salesblazers, Serviceblazers, and the Salesforce Commerce Cloud Podcast. Note: Amalia is on maternity leave through December 2024 and we look forward to her return!|[amalia](https://www.salesforce.com/trailblazer/amalia)|[amaliam](https://github.com/amaliam)|
 ||Madison Dickson|
